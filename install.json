@@ -1,0 +1,15 @@
+{
+  "version": "v0.1.4",
+  "notes": "修改样式",
+  "pub_date": "2023-09-18T07:25:41.380Z",
+  "platforms": {
+    "win64": {
+      "signature": "Not Found",
+      "url": "https://github.com/yuuunagi/le-ingredient/releases/download/v0.1.4/le-ingredient_0.1.4_windows_x86_64.msi.zip"
+    },
+    "windows-x86_64": {
+      "signature": "Not Found",
+      "url": "https://github.com/yuuunagi/le-ingredient/releases/download/v0.1.4/le-ingredient_0.1.4_windows_x86_64.msi.zip"
+    }
+  }
+}
