@@ -1,0 +1,15 @@
+{
+  "version": "v0.1.7",
+  "notes": "增加料包打印界面",
+  "pub_date": "2023-10-10T09:48:57.718Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5MjBKOXF2U1l2ckcrSkFnYjZtdUVtazJWbm9HVHZPV0Joa0VPOHZRMzNLb0FBQkFBQUFBQUFBQUFBQUlBQUFBQUwrVU8zMDlIS3JHMG1xSWZlVWNoQ2NkbkRYMkw3K1owaC9FTWpsRVJZb3dwUXRvNlVWRDhleFN3R0loVVFWV2ZVTy9ja0hDMCt4d1JuTTR0VC9ZcnBzWTJSTmptTVJ3UUs0aEFLNThUdU1GaEJFNEFLK1BCMlk0bVBGMVVIRUZja3BYcVE0Q1R0UWM9Cg==",
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.7/le-ingredient_0.1.7_windows_x86_64.msi.zip"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5MjBKOXF2U1l2ckcrSkFnYjZtdUVtazJWbm9HVHZPV0Joa0VPOHZRMzNLb0FBQkFBQUFBQUFBQUFBQUlBQUFBQUwrVU8zMDlIS3JHMG1xSWZlVWNoQ2NkbkRYMkw3K1owaC9FTWpsRVJZb3dwUXRvNlVWRDhleFN3R0loVVFWV2ZVTy9ja0hDMCt4d1JuTTR0VC9ZcnBzWTJSTmptTVJ3UUs0aEFLNThUdU1GaEJFNEFLK1BCMlk0bVBGMVVIRUZja3BYcVE0Q1R0UWM9Cg==",
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.7/le-ingredient_0.1.7_windows_x86_64.msi.zip"
+    }
+  }
+}
