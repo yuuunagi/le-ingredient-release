@@ -4,12 +4,12 @@
   "pub_date": "2023-10-13T05:48:25.155Z",
   "platforms": {
     "win64": {
-      "signature": "",
-      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.8/le-ingredient_0.1.8_windows_x86_64.msi.zip.sig"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdU13WDRUNWNjY1hzSm9iaG5Tdlk1ZWk2OXhML3JYZ0RHVldIWTNETjNGaHhPaHdjOER3U0ZUY1BqN2h0bFViTXJyMEpSdVFFVXhEZmhLY1N1WjJoandnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3MTc1MjM3CWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuOF94NjRfZW4tVVMubXNpLnppcApFVFltaHhvNEFYcWVUVGJmWDNWaVl3OUMrdmJSNnM4OWFTWmRaazMwKzNYSW9LYXRuTWVlc2FBbXVteStqT3VzcHVMcTJ2ci9iQ0lEZkl1SWlpRExEZz09Cg==",
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.8/le-ingredient_0.1.8_windows_x86_64.msi.zip"
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.8/le-ingredient_0.1.8_windows_x86_64.msi.zip.sig"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdU13WDRUNWNjY1hzSm9iaG5Tdlk1ZWk2OXhML3JYZ0RHVldIWTNETjNGaHhPaHdjOER3U0ZUY1BqN2h0bFViTXJyMEpSdVFFVXhEZmhLY1N1WjJoandnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3MTc1MjM3CWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuOF94NjRfZW4tVVMubXNpLnppcApFVFltaHhvNEFYcWVUVGJmWDNWaVl3OUMrdmJSNnM4OWFTWmRaazMwKzNYSW9LYXRuTWVlc2FBbXVteStqT3VzcHVMcTJ2ci9iQ0lEZkl1SWlpRExEZz09Cg==",
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.8/le-ingredient_0.1.8_windows_x86_64.msi.zip"
     }
   }
 }
