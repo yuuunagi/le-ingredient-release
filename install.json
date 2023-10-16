@@ -1,15 +1,15 @@
 {
   "version": "v0.1.9",
   "notes": "修改检测员数据源",
-  "pub_date": "2023-10-16T05:32:20.666Z",
+  "pub_date": "2023-10-16T06:15:59.736Z",
   "platforms": {
     "win64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdUlOS0pFb2RXRlRDQzV5WUZ3aE51WUdtSzdZSlBhVlB5Qk5SODlteFo4cXBiNU1UTTMzMjE4aE9GZUZ3SXF1bFIzL3hFRTdvOFRFNVV6Q3ZSeUFmNXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NDM0MTMxCWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuOV94NjRfZW4tVVMubXNpLnppcApYMEVoZ3YzYmI4VVBaTHFEQ1paRHRxWnNLNS9nS3c5anRZdkE4MGVBRUZNYmRZeUtKc3NwMmtORWU0RzcwNUhKNC9FTElYTjNLT0YvMUorYThSRTZEdz09Cg==",
-      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.9/le-ingredient_0.1.9_windows_x86_64.msi.zip.sig"
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.9/le-ingredient_0.1.9_windows_x86_64.msi.zip"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdUlOS0pFb2RXRlRDQzV5WUZ3aE51WUdtSzdZSlBhVlB5Qk5SODlteFo4cXBiNU1UTTMzMjE4aE9GZUZ3SXF1bFIzL3hFRTdvOFRFNVV6Q3ZSeUFmNXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3NDM0MTMxCWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuOV94NjRfZW4tVVMubXNpLnppcApYMEVoZ3YzYmI4VVBaTHFEQ1paRHRxWnNLNS9nS3c5anRZdkE4MGVBRUZNYmRZeUtKc3NwMmtORWU0RzcwNUhKNC9FTElYTjNLT0YvMUorYThSRTZEdz09Cg==",
-      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.9/le-ingredient_0.1.9_windows_x86_64.msi.zip.sig"
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.9/le-ingredient_0.1.9_windows_x86_64.msi.zip"
     }
   }
 }
