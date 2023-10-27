@@ -1,15 +1,15 @@
 {
-  "version": "v0.1.10",
-  "notes": "增加入库单备注信息,修改打印模板",
-  "pub_date": "2023-10-19T07:19:41.809Z",
+  "version": "v0.1.11",
+  "notes": "质检入库界面布局调整, 增加字段质检判定",
+  "pub_date": "2023-10-27T10:08:03.316Z",
   "platforms": {
     "win64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdUNjMW16NC8wTEFvYkZxT2djejBHNkpKK3NHVUh3VHVETDUxZ2dpSjBwN0FZQmhpMXl6U3dSN1lVeHN2SjNkazNTSzgwL3ZWYVN0QWs4RGFzR1RWemdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Njk4NzU0CWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuMTBfeDY0X2VuLVVTLm1zaS56aXAKNlpwN3l3UjlveVA0eUxsbnNVc202eFRtTm9BVzExUHllSUplQ1g2NHZPSVlYZ3ZXb3daeHY5VGNoY2VtdVVNdEE5YlhMQVJQbkVYUW90VW1qU21hQkE9PQo=",
-      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.10/le-ingredient_0.1.10_windows_x86_64.msi.zip"
+      "signature": "Not Found",
+      "url": "https://github.com/yuuunagi/le-ingredient/releases/download/v0.1.11/le-ingredient_0.1.11_windows_x86_64.msi.zip"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdUNjMW16NC8wTEFvYkZxT2djejBHNkpKK3NHVUh3VHVETDUxZ2dpSjBwN0FZQmhpMXl6U3dSN1lVeHN2SjNkazNTSzgwL3ZWYVN0QWs4RGFzR1RWemdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3Njk4NzU0CWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuMTBfeDY0X2VuLVVTLm1zaS56aXAKNlpwN3l3UjlveVA0eUxsbnNVc202eFRtTm9BVzExUHllSUplQ1g2NHZPSVlYZ3ZXb3daeHY5VGNoY2VtdVVNdEE5YlhMQVJQbkVYUW90VW1qU21hQkE9PQo=",
-      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.10/le-ingredient_0.1.10_windows_x86_64.msi.zip"
+      "signature": "Not Found",
+      "url": "https://github.com/yuuunagi/le-ingredient/releases/download/v0.1.11/le-ingredient_0.1.11_windows_x86_64.msi.zip"
     }
   }
 }
