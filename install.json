@@ -1,15 +1,15 @@
 {
   "version": "v0.1.12",
   "notes": "质检入库界面布局调整, 增加字段是否抽检, 缺陷",
-  "pub_date": "2023-11-13T09:56:20.837Z",
+  "pub_date": "2023-11-13T10:00:58.271Z",
   "platforms": {
     "win64": {
-      "signature": "Not Found",
-      "url": "https://github.com/yuuunagi/le-ingredient/releases/download/v0.1.12/le-ingredient_0.1.12_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdVBvK1piUFpHV2RHTGU3Y2NHdW02c2ZpdFR2OXYyZGkyNlZJaDBzOXZrL2ZNVjdhY2RJTjlCUlNReklxOUJXbWgrV0RZZ2RHREtqQmhRMXlwRXdQdXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5ODY5MjkyCWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuMTJfeDY0X2VuLVVTLm1zaS56aXAKLzlvL3gxZUkzSDNjUFF5Rm0vT3JVQkpzZ3ZwVkdWUlZkVFRRM2s2dTNuMGpHR04veXZKTFVmYWR6RXVqMk9lN2N4ejR3TWcvbVd3REF6ZFowUlJnQUE9PQo=",
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.12/le-ingredient_0.1.12_windows_x86_64.msi.zip"
     },
     "windows-x86_64": {
-      "signature": "Not Found",
-      "url": "https://github.com/yuuunagi/le-ingredient/releases/download/v0.1.12/le-ingredient_0.1.12_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdVBvK1piUFpHV2RHTGU3Y2NHdW02c2ZpdFR2OXYyZGkyNlZJaDBzOXZrL2ZNVjdhY2RJTjlCUlNReklxOUJXbWgrV0RZZ2RHREtqQmhRMXlwRXdQdXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5ODY5MjkyCWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuMTJfeDY0X2VuLVVTLm1zaS56aXAKLzlvL3gxZUkzSDNjUFF5Rm0vT3JVQkpzZ3ZwVkdWUlZkVFRRM2s2dTNuMGpHR04veXZKTFVmYWR6RXVqMk9lN2N4ejR3TWcvbVd3REF6ZFowUlJnQUE9PQo=",
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.12/le-ingredient_0.1.12_windows_x86_64.msi.zip"
     }
   }
 }
