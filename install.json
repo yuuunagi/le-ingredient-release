@@ -1,15 +1,15 @@
 {
-  "version": "v0.1.12",
-  "notes": "质检入库界面布局调整, 增加字段是否抽检, 缺陷",
-  "pub_date": "2023-11-13T10:00:58.271Z",
+  "version": "v0.1.13",
+  "notes": "质检入库界面增加数量限制和二次确认, 缺陷调整",
+  "pub_date": "2023-11-24T08:23:30.004Z",
   "platforms": {
     "win64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdUtDMk14SDJpRnIrSVRCOUdNR2RBOGZGU1R5b1N3dHN5ZDhlcDI3YVBzYUw2emorSWNNa1RuUmZMMS9Fcy9rYVNyeWJRZ2ZkRGgwam1aeDV1WGZBbXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5OTI2NDE4CWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuMTJfeDY0X2VuLVVTLm1zaS56aXAKOXJiUTBodEsyeTRwMTZVcmR2VHdqWjZFbDhJR09SRVdySXFYYnd1L2Nrd0FlbWpiMFdjNUxDVmx2NTN0ZFc0YnB3QzdjU1ZwbkZaa0hUa21sV2lyQ1E9PQo=",
-      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.12/le-ingredient_0.1.12_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdUI4RG1RdzlyTjRobk9CQ2gxbXJsRTJHTEluVzBCNzRJRFExaXZvSXQ3SHBHUmgvWnBxZU5xRGJ4NFdCVEJBQitrZlo1YWxLakdlS01mbXRXWEJZZlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAwODEzNzg0CWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuMTNfeDY0X2VuLVVTLm1zaS56aXAKYmwzRndZU1JoN05OUjRHMFU3cDFHVEk1L2ZwamE1ZGNURE96UVJzVkNkN0JmbElSMDYvZk1xTzNvUVVoSldPRHQxV21xQkc2VG5MazlUWlVkemNBQ1E9PQo=",
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.13/le-ingredient_0.1.13_windows_x86_64.msi.zip"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdUtDMk14SDJpRnIrSVRCOUdNR2RBOGZGU1R5b1N3dHN5ZDhlcDI3YVBzYUw2emorSWNNa1RuUmZMMS9Fcy9rYVNyeWJRZ2ZkRGgwam1aeDV1WGZBbXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5OTI2NDE4CWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuMTJfeDY0X2VuLVVTLm1zaS56aXAKOXJiUTBodEsyeTRwMTZVcmR2VHdqWjZFbDhJR09SRVdySXFYYnd1L2Nrd0FlbWpiMFdjNUxDVmx2NTN0ZFc0YnB3QzdjU1ZwbkZaa0hUa21sV2lyQ1E9PQo=",
-      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.12/le-ingredient_0.1.12_windows_x86_64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdW9CN0t4WE1sdUI4RG1RdzlyTjRobk9CQ2gxbXJsRTJHTEluVzBCNzRJRFExaXZvSXQ3SHBHUmgvWnBxZU5xRGJ4NFdCVEJBQitrZlo1YWxLakdlS01mbXRXWEJZZlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAwODEzNzg0CWZpbGU6bGUtaW5ncmVkaWVudF8wLjEuMTNfeDY0X2VuLVVTLm1zaS56aXAKYmwzRndZU1JoN05OUjRHMFU3cDFHVEk1L2ZwamE1ZGNURE96UVJzVkNkN0JmbElSMDYvZk1xTzNvUVVoSldPRHQxV21xQkc2VG5MazlUWlVkemNBQ1E9PQo=",
+      "url": "https://github.com/yuuunagi/le-ingredient-release/releases/download/v0.1.13/le-ingredient_0.1.13_windows_x86_64.msi.zip"
     }
   }
 }
